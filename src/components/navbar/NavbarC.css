@@ -1,0 +1,25 @@
+.navbar {
+  background-color: #0732b3;
+}
+
+.navbar-brand,
+.navbar-nav .nav-link {
+  color: #ffffff;
+}
+
+.navbar-brand:hover,
+.navbar-nav .nav-link:hover {
+  color: #dbe4ff;
+}
+
+.logo-hover {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.logo-hover:hover {
+  transform: scale(1.1);
+  box-shadow: 0 4px 8px rgba(0, 0, 255, 0.3);
+  border-radius: 50%;
+  border: 2px solid #007bff;
+  background-color: rgba(0, 123, 255, 0.1);
+}

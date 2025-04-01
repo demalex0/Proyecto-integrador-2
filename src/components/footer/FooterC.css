@@ -1,0 +1,32 @@
+.footer {
+  background-color: #130d7a;
+  color: #ffffff;
+  text-align: center;
+  padding: 20px 0;
+}
+
+.footer a {
+  text-decoration: none;
+  margin: 0 15px;
+  transition: transform 0.3s ease;
+}
+
+.footer a:hover {
+  transform: scale(1.2);
+}
+
+.facebook-icon {
+  color: #1877f2;
+}
+
+.instagram-icon {
+  color: #e4405f;
+}
+
+.twitter-icon {
+  color: #1da1f2;
+}
+
+.youtube-icon {
+  color: #ff0000;
+}

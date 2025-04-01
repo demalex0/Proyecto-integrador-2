@@ -1,0 +1,7 @@
+.carousel img {
+  height: 50vh;
+  object-fit: cover;
+}
+.carousel {
+  padding-top: 20px;
+}
